@@ -12,9 +12,9 @@ export default function HomePage() {
       {/* Hero Section */}
       <section className="section" style={{ textAlign: 'center', backgroundColor: '#fff', borderBottom: '1px solid var(--border-color)' }}>
         <div className="container" style={{ maxWidth: '800px' }}>
-          <h1 style={{ marginBottom: '1rem', color: 'var(--accent)' }}>You are not alone.</h1>
+          <h1 style={{ marginBottom: '1rem', color: 'var(--accent)' }}>Millions have been in your shoes and found their way forward.</h1>
           <p style={{ fontSize: '1.25rem', margin: '0 auto 2rem', lineHeight: '1.6' }}>
-            <a href="https://www.bls.gov/news.release/jolts.t05.htm" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--accent)', textDecoration: 'underline' }}>Millions have been here</a> and found their way forward. We’re tracking the most useful trends in how people are navigating layoffs right now — so you can stay aware of what’s helping and what to consider next.
+            We’re tracking the most useful trends in how people are navigating layoffs right now — so you can stay in the know of what’s helpful and how to navigate.
           </p>
           
           <div style={{ display: 'flex', gap: '1rem', justifyContent: 'center', marginBottom: '2.5rem' }}>
